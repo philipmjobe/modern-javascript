@@ -8,7 +8,7 @@ console.log(dates);
 
 console.log(math.log(10000, 10));
 
-var name = "Phil",
+var name = "Philip",
   time = "today";
 
 console.log(`Hello ${name} how are you ${time}`);
