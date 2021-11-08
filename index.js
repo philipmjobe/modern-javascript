@@ -7,3 +7,8 @@ var dates = moment().format("MMMM Do YYYY, h:mm:ss a");
 console.log(dates);
 
 console.log(math.log(10000, 10));
+
+var name = "Phil",
+  time = "today";
+
+console.log(`Hello ${name} how are you ${time}`);
