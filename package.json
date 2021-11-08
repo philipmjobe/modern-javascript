@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/philipmjobe/modern-javascript#readme",
   "dependencies": {
+    "mathjs": "^10.0.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
